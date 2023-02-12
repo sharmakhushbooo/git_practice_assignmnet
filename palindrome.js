@@ -8,4 +8,4 @@ console.log("palindrome h");
  console.log("palindrome nahi h h");   
 }
 
-console.log(output)
+c(output)
